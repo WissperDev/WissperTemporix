@@ -38,7 +38,7 @@ L'empreinte attendue est publiée dans les notes de chaque release.
 Pour la **0.9.0-beta.1** :
 
 ```
-d01d320af399ac9d8f85e7291c007296d29919fc9f8d89d0c22d471a8cbce529
+4a76eb95d5040f70db719a9b43d8b727db10fbe68dac8f70a7a6ebe452e227cc
 ```
 
 **Les mises à jour sont automatiques** : l'application vérifie au lancement et
