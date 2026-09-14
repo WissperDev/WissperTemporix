@@ -81,9 +81,6 @@ Le salon de la beta : **https://discord.gg/KHWBdvsGJ4**
 
 ## Licence
 
-GPL-3.0. Ce programme dérive de [angine67/DofuEmu](https://github.com/angine67/DofuEmu),
-sous la même licence.
-
 Ce dépôt ne contient que des binaires. Pour obtenir le code source correspondant
 à une version distribuée ici, ouvrez une issue : il vous sera fourni, comme la
 licence l'exige.
