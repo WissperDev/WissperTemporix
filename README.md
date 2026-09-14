@@ -38,7 +38,7 @@ L'empreinte attendue est publiée dans les notes de chaque release.
 Pour la **0.9.0-beta.1** :
 
 ```
-21f133a07482ec867a23e35e3eb3771ef37f11ad50d4e29c9d26484ca2b4d157
+d01d320af399ac9d8f85e7291c007296d29919fc9f8d89d0c22d471a8cbce529
 ```
 
 **Les mises à jour sont automatiques** : l'application vérifie au lancement et
@@ -57,9 +57,15 @@ installe à la fermeture. Rien à réinstaller à la main.
   automatique vers le compte concerné
 - raccourcis clavier : `1`–`9` sorts, `Ctrl` + chiffre objets, `Retour arrière`
   fin de tour
+- **quêtes** : la liste, l'objectif en cours, et « Aller » pour rejoindre sa carte —
+  parler au personnage non-joueur, c'est vous
 - proxy ou carte réseau **par compte**, résolution réglable
 
 Les réglages d'équipe sont dans **Réglages → Jeu**, sous « Suivi de groupe ».
+
+La **console** (l'icône à gauche des boutons de fenêtre) ouvre la fiche du
+personnage, le sac, la carte du monde et les quêtes. Rien n'y joue tout seul :
+les seuls ordres qu'elle envoie sont des déplacements.
 
 ---
 
