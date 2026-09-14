@@ -30,15 +30,15 @@ n'est pas un problème du fichier.
 Vous pouvez vérifier l'empreinte du fichier téléchargé :
 
 ```powershell
-Get-FileHash .\WissperTemporix-0.9.0-beta.1-win-x64.exe -Algorithm SHA256
+Get-FileHash .\WissperTemporix-0.9.0-beta.2-win-x64.exe -Algorithm SHA256
 ```
 
 L'empreinte attendue est publiée dans les notes de chaque release.
 
-Pour la **0.9.0-beta.1** :
+Pour la **0.9.0-beta.2** :
 
 ```
-4a76eb95d5040f70db719a9b43d8b727db10fbe68dac8f70a7a6ebe452e227cc
+204a21fb58429034840b7e7182ee3b56d80e7507fb0484e7026da9e75369b567
 ```
 
 **Les mises à jour sont automatiques** : l'application vérifie au lancement et
@@ -59,6 +59,10 @@ installe à la fermeture. Rien à réinstaller à la main.
   fin de tour
 - **quêtes** : la liste, l'objectif en cours, et « Aller » pour rejoindre sa carte —
   parler au personnage non-joueur, c'est vous
+- **mosaïque** : tous les comptes visibles en même temps, chacun dans sa case
+- **configuration exportable** : comptes, proxys, équipes, raccourcis et réglages
+  suivent la machine — sans jamais emporter un mot de passe
+- **zoom de l'interface** réglable et gardé (`Ctrl + =` / `Ctrl + -`)
 - proxy ou carte réseau **par compte**, résolution réglable
 
 Les réglages d'équipe sont dans **Réglages → Jeu**, sous « Suivi de groupe ».
